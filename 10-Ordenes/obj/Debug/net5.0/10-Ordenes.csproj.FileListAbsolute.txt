@@ -1,0 +1,32 @@
+C:\Users\PC\Downloads\10-Ordenes\bin\Debug\net5.0\10-Ordenes.exe
+C:\Users\PC\Downloads\10-Ordenes\bin\Debug\net5.0\10-Ordenes.deps.json
+C:\Users\PC\Downloads\10-Ordenes\bin\Debug\net5.0\10-Ordenes.runtimeconfig.json
+C:\Users\PC\Downloads\10-Ordenes\bin\Debug\net5.0\10-Ordenes.runtimeconfig.dev.json
+C:\Users\PC\Downloads\10-Ordenes\bin\Debug\net5.0\10-Ordenes.dll
+C:\Users\PC\Downloads\10-Ordenes\bin\Debug\net5.0\10-Ordenes.pdb
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.AssemblyInfo.cs
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.dll
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\refint\10-Ordenes.dll
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.pdb
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\10-Ordenes.genruntimeconfig.cache
+C:\Users\PC\Downloads\10-Ordenes\obj\Debug\net5.0\ref\10-Ordenes.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\bin\Debug\net5.0\10-Ordenes.exe
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\bin\Debug\net5.0\10-Ordenes.deps.json
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\bin\Debug\net5.0\10-Ordenes.runtimeconfig.json
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\bin\Debug\net5.0\10-Ordenes.runtimeconfig.dev.json
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\bin\Debug\net5.0\10-Ordenes.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\bin\Debug\net5.0\10-Ordenes.pdb
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.AssemblyInfo.cs
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\refint\10-Ordenes.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.pdb
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\10-Ordenes.genruntimeconfig.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\10-Ordenes\obj\Debug\net5.0\ref\10-Ordenes.dll
