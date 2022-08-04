@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\bin\Debug\net5.0\11-Animales.exe
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\bin\Debug\net5.0\11-Animales.deps.json
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\bin\Debug\net5.0\11-Animales.runtimeconfig.json
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\bin\Debug\net5.0\11-Animales.runtimeconfig.dev.json
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\bin\Debug\net5.0\11-Animales.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\bin\Debug\net5.0\11-Animales.pdb
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.AssemblyInfo.cs
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\refint\11-Animales.dll
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.pdb
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\11-Animales.genruntimeconfig.cache
+C:\Users\PC\Desktop\L1\Ejercicios VSCode\11-Animales\obj\Debug\net5.0\ref\11-Animales.dll
